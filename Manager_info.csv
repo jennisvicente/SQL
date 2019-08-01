@@ -1,0 +1,25 @@
+emp_no,first_name,last_name,dept_name,dept_no,from_date,to_date
+110022,Margareta,Markovitch,Marketing,d001,1/1/85,10/1/91
+110039,Vishwani,Minakawa,Marketing,d001,10/1/91,1/1/99
+110085,Ebru,Alpin,Finance,d002,1/1/85,12/17/89
+110114,Isamu,Legleitner,Finance,d002,12/17/89,1/1/99
+110183,Shirish,Ossenbruggen,Human Resources,d003,1/1/85,3/21/92
+110228,Karsten,Sigstam,Human Resources,d003,3/21/92,1/1/99
+110303,Krassimir,Wegerle,Production,d004,1/1/85,9/9/88
+110344,Rosine,Cools,Production,d004,9/9/88,8/2/92
+110386,Shem,Kieras,Production,d004,8/2/92,8/30/96
+110420,Oscar,Ghazalie,Production,d004,8/30/96,1/1/99
+110511,DeForest,Hagimont,Development,d005,1/1/85,4/25/92
+110567,Leon,DasSarma,Development,d005,4/25/92,1/1/99
+110725,Peternela,Onuegbe,Quality Management,d006,1/1/85,5/6/89
+110765,Rutger,Hofmeyr,Quality Management,d006,5/6/89,9/12/91
+110800,Sanjoy,Quadeer,Quality Management,d006,9/12/91,6/28/94
+110854,Dung,Pesch,Quality Management,d006,6/28/94,1/1/99
+111035,Przemyslawa,Kaelbling,Sales,d007,1/1/85,3/7/91
+111133,Hauke,Zhang,Sales,d007,3/7/91,1/1/99
+111400,Arie,Staelin,Research,d008,1/1/85,4/8/91
+111534,Hilary,Kambil,Research,d008,4/8/91,1/1/99
+111692,Tonny,Butterworth,Customer Service,d009,1/1/85,10/17/88
+111784,Marjo,Giarratana,Customer Service,d009,10/17/88,9/8/92
+111877,Xiaobin,Spinelli,Customer Service,d009,9/8/92,1/3/96
+111939,Yuchang,Weedman,Customer Service,d009,1/3/96,1/1/99
